@@ -1,6 +1,6 @@
 module: LoggerAPI
 author: IBM
-github_url: https://github.com/IBM-Swift/LoggerAPI/
+github_url: https://github.com/Kitura-Next/LoggerAPI/
 
 theme: fullwidth
 clean: true
