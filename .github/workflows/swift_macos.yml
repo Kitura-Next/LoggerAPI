@@ -1,4 +1,4 @@
-name: Swift MacOS X86_64
+name: Swift MacOS
 
 on:
   push:

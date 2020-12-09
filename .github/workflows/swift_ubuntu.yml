@@ -1,4 +1,4 @@
-name: Swift Ubuntu X86_64
+name: Swift Ubuntu
 
 on:
   push:
