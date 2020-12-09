@@ -78,6 +78,9 @@ If both `logger` and `swiftLogger` are set, then log messages will be sent to bo
 
 Note that because the hierarchy of log levels defined by LoggerAPI and swift-log is slightly different, a mapping is defined between the levels. See the documentation for `Log.isLogging()` for details.
 
+## Swift version
+Requires **Swift 5.1** or newer. You can download this version of the Swift binaries by following this [link](https://swift.org/download/). Compatibility with other Swift versions is not guaranteed.
+
 ## API documentation
 
 For more information visit our [API reference](http://kitura-next.github.io/LoggerAPI/).
