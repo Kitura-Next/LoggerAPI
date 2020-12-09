@@ -8,10 +8,10 @@
 <p align="center">
     <a href="https://www.kituranext.org/learn/">
     <img src="https://img.shields.io/badge/docs-kitura-1FBCE4.svg" alt="APIDoc"></a>
-    <a href="https://github.com/Kitura-Next/LoggerAPI/actions?query=workflow%3A%22Swift+MacOS%22">
-    <img src="https://github.com/Kitura-Next/LoggerAPI/workflows/Swift%20MacOS/badge.svg"></a>
-    <a href="https://github.com/Kitura-Next/LoggerAPI/actions?query=workflow%3A%22Swift+Ubuntu%22">
-    <img src="https://github.com/Kitura-Next/LoggerAPI/workflows/Swift%20Ubuntu/badge.svg"></a>
+    <a href="https://github.com/Kitura-Next/LoggerAPI/actions?query=workflow%3A%22Swift+MacOS+X86_64%22">
+    <img src="https://github.com/Kitura-Next/LoggerAPI/workflows/Swift%20MacOS%20X86_64/badge.svg"></a>
+    <a href="https://github.com/Kitura-Next/LoggerAPI/actions?query=workflow%3A%22Swift+Ubuntu+X86_64%22">
+    <img src="https://github.com/Kitura-Next/LoggerAPI/workflows/Swift%20Ubuntu%20X86_64/badge.svg"></a>
     <img src="https://img.shields.io/badge/license-Apache2-blue.svg?style=flat" alt="Apache 2">
     <a href="http://swift-at-ibm-slack.mybluemix.net/">
     <img src="http://swift-at-ibm-slack.mybluemix.net/badge.svg" alt="Slack Status"></a>
